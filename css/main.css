@@ -1,0 +1,50 @@
+.header_image {
+    width: 100%;
+    height: 400px;
+}
+#banner {
+    position: absolute;
+    top: 130px;
+    left: 50px;
+    right: 500px;
+    color: white;
+    font: bold 24px/34px Helvetica, Sans-Serif;
+    text-shadow: 40px 40px 40px #908765;
+}
+h1{
+    padding-bottom: 50px;
+}
+h2 {
+    font: italic 24px/23px Helvetica, Sans-Serif;
+}
+.footer {
+    height: 50px;
+    line-height: 30px;
+    background: #123466;
+    color: white;
+    border: 5px solid white;
+    position: relative;
+    padding: 10px 10px 10px 25px;
+    border-top: 0;
+    clear: both;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+}
+p {
+    font: italic 24px/23px Helvetica, Sans-Serif;
+    text-shadow: 1px 1px 9px black, 0 0 1em black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+
+#logo {
+    padding:0 10px 0 150px;
+    position:absolute;
+    right:0;
+    top:-27px;
+}
+
